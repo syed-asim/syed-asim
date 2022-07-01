@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syed-asim
-- 👀 I’m interested in developing and contributing to apps the makes life easier
+- 👀 I’m interested in developing and contributing to apps tha makes life easier
 - 🌱 I’m currently learning Data analysis and visualizations
-- 💞️ I’m looking to collaborate on project related to data analytics
+- 💞️ I’m looking to collaborate on projects related to data analytics
 - 📫 How to reach me: me.syedasim@gmail.com
 
 <!---
